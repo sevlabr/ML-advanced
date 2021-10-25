@@ -10,7 +10,7 @@ The solution consists of 4 main parts. Ones denoted by numbers are NMT models ba
 The last part is [results]() where summary of all experiments provided.
 
 Colab versions:
-1.
-2.
-3.
+1. [DistilBERT Encoder](https://colab.research.google.com/drive/1sT5tPaRasXq2M55whxb1hPnz-adBan6e?usp=sharing)
+2. [Base LSTM with few additional features](https://colab.research.google.com/drive/1ZI7N4Tm2UIR1-oqTI3OR5xV53vTS3D8B?usp=sharing)
+3. [CNN-Transformer and enhanced learning techniques](https://colab.research.google.com/drive/1FSQUn3Iy10Ft05WUSxdPV6rAJ7odTbCe?usp=sharing)
 4.
